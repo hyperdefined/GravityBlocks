@@ -1,0 +1,9 @@
+name: DestroyMC-Main
+main: lol.hyper.gravityblocks.GravityBlocks
+version: "1.0"
+api-version: "1.15"
+author: "hyperdefined"
+commands:
+  gb:
+    description: Gravity block commands.
+    usage: /gb
